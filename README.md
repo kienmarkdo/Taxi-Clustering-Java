@@ -2,7 +2,6 @@
 
 URL to the original repository I made: https://github.com/kienmarkdo/Taxi-Geolocation-Clustering-DBSCAN
 
-# Objected-oriented programming (Java)
 This Java version is the first part of the DBSCAN comprehensive project. 
 
 The [DBSCAN clustering algorithm](https://en.wikipedia.org/wiki/DBSCAN) as well as its dependant functions and methods are implemented as intended. The program takes the path of the dataset (CSV file), processes it, and outputs either one single CSV file containing all the clusters (in the single CSV file version) or multiple CSV files - one for each cluster (in the multiple CSV files version) depending on the version you choose to run. 
